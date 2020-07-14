@@ -909,7 +909,7 @@ left: 24%;
 
 /*-- MOVIL --*/
 
-@media (max-width: 800px){
+@media (max-width: 812px){
 
 .logo {
     margin-left: 5%;}
@@ -1099,5 +1099,878 @@ margin-top: 500px;
     top: 140px;
     width: 220px;
     left: 20%;
-                        }
+        }
+
+/*---cards---*/
+            
+     .card img {
+    width: 150px;
+    height: 200px;
+     }
+    
+     .card h4 {
+    padding-left: 8%;
+    margin-bottom: 5%;
+            }
+            
+    .underline {
+    margin-left: 20px;
+            }
+            
+    .card p {
+    padding-left: 20px;
+    padding-right: 20px;
+            }
     }
+
+    @media (max-width: 768px){
+
+    button {
+    left: 33%;
+                 }
+    .textopremium {
+    top: -120px;
+    left: 41%;
+    width: 400px;
+        }
+    
+    .comillas {
+    display: none;
+        }
+        
+    .comillassecond {
+    display: none;
+        }
+        
+    .quote1 {
+    left: 13%;
+    margin-top: 300px;
+        }
+    
+    .quote2 {
+    left: 13%;
+    margin-top: 480px;
+        }
+        
+    .quote3 {
+    width: 250px;
+    left: 57%;
+    margin-top: 300px;
+            }
+        
+    .quote4 {
+    left: 57%;
+    margin-top: 480px;
+        }
+        
+    .fondonaranja {
+    top: 0;
+    left: 50%;
+    width: 49%;
+    height: 750px;
+        }
+        
+    .fondoazul {
+    width: 300px;
+    height: 400px;
+    margin-left:8%;
+    margin-top: 180px;
+        }
+        
+    .fondorosa {
+    width: 300px;
+    height: 400px;
+    margin-left: 53%;
+    margin-top: 180px;
+        }
+        
+    .comillas2 {
+        margin-top: 230px;
+        margin-left: 13%;
+            }
+        
+        .comillas3 {
+        margin-top: 230px;
+        margin-left: 16%;
+        }
+        
+        .comillas4 {
+        margin-top: 230px;
+        margin-left: 57%;
+        }
+            
+        .comillas5 {
+        margin-top: 230px;
+        margin-left: 60%;
+            }
+    
+        }
+
+@media (max-width: 736px){
+
+    input {
+        margin-left: 5%;
+        width: 180px;
+        top: 620px;
+            }
+
+    .circle {
+        left: 30px;
+        width: 230px;
+        height: 230px;
+                        }
+
+    .premium img {
+        margin-left: 95px;
+        width: 100px;
+                    }
+    
+    .textopremium {
+        left: 39%;
+        width: 400px;
+                }
+
+    .lastbutton {
+        top: 130px;
+        left: 53%;
+                } 
+                    
+    .lastinput {
+        top: 150px;
+        width: 200px;
+                        }
+                    }
+
+@media (max-width: 667px){
+
+    .logo {
+    margin-left: 3%;
+}
+                        
+    .navegacion {
+    margin-right: 20px;
+            }
+                        
+    h1 {
+    margin-left: 3%;
+    padding-top: 60px;
+    font-size: 38px ;
+    line-height: 44px;
+    width: 300px;
+            }
+                        
+    .hero img{
+    width: 325px;
+    height: 228px;
+            }
+                            
+    .fotomovil {
+    top: -410px;    
+    left: -10px;
+            }
+                            
+    .parrafoinicial {
+    margin-left: 3%;
+    width: 50%;
+                                    }
+                            
+    input {
+    margin-left: 3%;
+    top: 570px;
+            }
+                                         
+    button {
+    left: 32%;
+    top: 570px;
+        }
+                            
+                            
+     /*--cards--*/
+                            
+    .cards {
+    margin-left: 3%;
+    top: -180px;
+    width: 93%;
+                                    }
+                            
+                            
+    /*--premium--*/
+                            
+    .circle {
+    left: 20px;
+         }
+                        
+    .premium img {
+    margin-left: 85px;
+                            }
+                                        
+ /*-texto premium-*/
+                                        
+    .textopremium {
+    left: 40%;
+    width: 370px;
+                                        }
+                            
+    .textopremium h2 {
+    width: 450px;
+    margin-left: -80px;}
+                        
+                            /*--customers--*/
+                            
+                            
+  .customers h3 {
+    top: -10px;
+   margin-left: 50px;
+   color: #ffffff;
+   line-height: 1.2em;
+                            }
+                            
+     .quote1 {
+    left: 10%;
+    margin-top: 300px;
+                            }
+                            
+    .quote2 {
+    left: 10%;
+    margin-top: 470px;
+                            }
+                            
+    .quote3 {
+    width: 220px;
+    left: 56%;
+    margin-top: 300px;
+                                }
+                            
+    .quote4 {
+    left: 56%;
+    margin-top: 470px;
+                            }
+                            
+.fondonaranja {
+top: -50px;
+left: 3%;
+width: 97%;
+height: 700px;
+    }
+                            
+.fondoazul {
+width: 295px;
+height: 400px;
+margin-left:5%;
+margin-top: 150px;
+        }
+                            
+ .fondorosa {
+width: 295px;
+height: 400px;
+margin-left: 51%;
+margin-top: 150px;
+        }
+                            
+.comillas2 {
+margin-top: 200px;
+margin-left: 10%;
+        }
+                            
+.comillas3 {
+margin-top: 200px;
+margin-left: 14%;
+         }
+                            
+.comillas4 {
+margin-top: 200px;
+margin-left: 56%;
+        }
+                                
+.comillas5 {
+margin-top: 200px;
+margin-left: 60%;
+        }
+                            
+                        
+ /*--last--*/
+                        
+.last {
+ margin-top: 50px;
+    }
+                            
+ .last h2 {
+font-size: 38px;
+    }
+                            
+.last h3{
+font-size: 28px;
+     }
+                                
+ .lastbutton {
+top: 130px;
+width: 120px;
+left: 57%;
+    } 
+                            
+.lastinput {
+top: 150px;
+width: 200px;
+left: 22%;
+    }
+                        
+footer {
+margin-top: 180px;
+height: 200px;
+background-color: #F8765E;
+        }
+    }
+
+
+
+ @media (max-width: 414px){
+
+.topbar {
+        height: 200px;
+    }
+    
+.logo {
+    text-align: center;
+    }
+    
+.navegacion {
+    text-align: center;
+    margin-top: -20px;
+    float: inline-start;
+        }
+    
+    /* hero*/
+    
+    .hero {
+        height: 1000px;
+        margin-top: -40px;
+    }
+    
+    h1 {
+    margin-left: 5%;
+    padding-top: 320px;
+    font-size: 36px;
+    line-height: 1.5em;
+    width: 90%;
+    }
+    
+    .parrafoinicial {
+    margin-left: 5%;
+    width: 87%;
+    line-height: 2em;
+    margin-top: 40px;
+    font-weight: 500;
+    }
+    
+    .fotomovil {
+    top: -680px;    
+    left: -2%;
+    }
+    
+    .hero img{
+        width: 375px;
+        height: 263px;
+    }
+    
+    /* ---- form ---- */
+    
+    input {
+    margin-left: 5%;
+    top: 900px;
+    width: 88%;
+    border-radius: 15px;
+    height: 50px;
+    padding-left: 10px;
+    }
+    
+    button {
+    left: 30%;
+    top: 970px;
+    border-radius: 15px;
+    width: 160px;
+    height: 50px;
+    }
+    
+    
+    /* cards */
+    
+    .cards {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    top: -100px;
+    width: 89%;
+    margin-left: 5%;
+    padding-bottom: 10%;
+    }
+    
+    .card {
+    margin-left: -3%;
+    }
+    
+    .card img {
+    width: 200px;
+    height: 235px;
+    }
+    
+    .card h4 {
+    margin-top: 10px;
+    padding-left: 10%;
+    margin-bottom: 5%;
+    }
+    
+    .underline {
+    margin-left: 38px;
+    }
+    
+    .card p {
+    padding-left: 37px;
+    padding-right: 37px;
+    line-height: 30px;
+    padding-bottom: 30px;
+    }
+    
+    /* premium */
+
+
+    .premium {
+        display: flex;
+        height: 1050px;
+    }
+    
+    .premium article {
+        position: absolute;
+    }
+    
+    .circle {
+        top: 40px;
+        margin-left: 5px;
+        width: 360px;
+        height: 360px;
+    }
+    
+    .premium img {
+        display: block;
+        margin-left: 110px;
+        top: 30px;
+        width: 200px;
+    }
+    
+    /*-texto premium-*/
+    
+    .textopremium {
+        top: 470px;
+        left: 0%;
+        text-align: center;
+    }
+    
+    .textopremium h3 {
+        font-size: 28px;
+        margin-left: 40px;
+        margin-top: -10px;
+    }
+
+        .textopremium h2 {
+        font-size: 34px;
+        margin-left: 20px;
+        width: 100%;
+            }
+        
+        .textopremium p {
+        margin-top: -10px;
+        margin-left: 40px;
+        width: 90%
+                }
+    /* customers */
+    
+    .customers {
+    top: -50px;
+    }
+    
+    .customers h3 {
+    top: 20px;
+    margin-left: 35px;
+    color: #ffffff;
+    }
+    
+    .quote1 {
+    left: 15%;
+    margin-top: 330px;
+    width: 300px;
+    }
+    
+    .quote2 {
+    left: 15%;
+    margin-top: 490px;
+    }
+    
+    .quote3 {
+    width: 280px;
+    left: 15%;
+    line-height: 32px;
+    margin-top: 750px;
+        }
+    
+    .quote4 {
+    left: 15%;
+    margin-top: 910px;
+    }
+    
+    .fondonaranja {
+    top: 0px;
+    left: 0px;
+    width: 413px;
+    height: 1080px;
+    }
+    
+    .fondoazul {
+    width: 370px;
+    height: 400px;
+    margin-left:5%;
+    margin-top: 180px;
+    }
+    
+    .fondorosa {
+    width: 370px;
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 600px;
+        }
+    
+    .comillas2 {
+    margin-top: 220px;
+    margin-left: 15%;
+        }
+    
+    .comillas3 {
+    margin-top: 220px;
+    margin-left: 21%;
+    }
+    
+    .comillas4 {
+    margin-top: 650px;
+    margin-left: 15%;
+    }
+        
+    .comillas5 {
+    margin-top: 650px;
+    margin-left: 21%;
+        }
+    
+    
+    /*--last--*/
+    
+    .last {
+    margin-top: 10px;
+    }
+    
+    .last h2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 32px;
+        }
+    
+    .last h3{
+    margin-top: -10px;
+    font-size: 24px;
+        }
+    
+    .lastinput {
+    left: 1%;
+    top: 170px;
+    border-radius: 15px;
+    width:88%;
+    height: 50px;
+        }
+        
+    .lastbutton {
+    left: 31%;
+    top: 220px;
+    display: block;
+    border-radius: 15px;
+    width: 160px;
+    height: 50px;
+    }
+    
+    /* ---- footer ---- */
+    
+    footer {
+    margin-top: 220px;
+    }
+    
+    .ulfooter {
+    margin-left: -8%;
+    }
+ }
+
+@media (max-width: 375px){
+            
+        .navegacion {
+            text-align: left;
+            margin-top: -20px;
+            width: 375px;
+            margin-left: -5px;
+
+                }
+                
+                li {
+                    padding-left: 15px;
+                }         
+            /* hero*/
+            
+            .parrafoinicial {
+            width: 90%;
+            }
+            
+            .fotomovil {
+            top: -730px;    
+            left: 0px;
+            }
+            
+            .hero img{
+                width: 360px;
+                height: auto;
+            }
+            
+            /* ---- form ---- */
+            
+            input {
+            top: 950px;
+            }
+            
+            button {
+            left: 28%;
+            top: 1020px;
+            }
+            
+            
+            /* cards */
+            
+            .cards {
+            top: -80px;
+            }
+            
+            .card h4 {
+            margin-top: 5px;
+            padding-left: 8%;
+            margin-bottom: 5%;
+            }
+            
+            .underline {
+            margin-left: 28px;
+            }
+            
+            .card p {
+            padding-left: 28px;
+            padding-right: 28px;
+            }
+            
+            /* premium */
+        
+        
+            .premium {
+                display: flex;
+                height: 1050px;
+            }
+            
+            .circle {
+                margin-left: 10px;
+                width: 310px;
+                height: 310px;
+            }
+            
+            .premium img {
+                margin-left: 100px;
+                top: 10px;
+                width: 180px;
+            }
+            
+            /*-texto premium-*/
+            
+            .textopremium {
+                top: 400px;
+                left: 0%;
+                text-align: center;
+            }
+            
+            .textopremium h3 {
+                width: 95%;
+                font-size: 24px;
+                margin-left: 16px;
+            }
+        
+                .textopremium h2 {
+                font-size: 30px;
+                margin-left: 12px;
+                width: 95%;
+                    }
+                
+            .textopremium p {
+                margin-top: 0px;
+                margin-left: 20px;
+                width: 88%
+                        }
+            /* customers */
+            
+            .customers {
+            top: -50px;
+            }
+            
+            .customers h3 {
+            top: -20px;
+            margin-left: 35px;
+            }
+            
+            .quote1 {
+            left: 15%;
+            margin-top: 300px;
+            width: 250px;
+            }
+            
+            .quote2 {
+            left: 15%;
+            margin-top: 460px;
+            }
+            
+            .quote3 {
+            width: 250px;
+            left: 15%;
+            margin-top: 720px;
+                }
+            
+            .quote4 {
+            left: 15%;
+            margin-top: 880px;
+            }
+            
+            .fondonaranja {
+            top: -40px;
+            width: 100%;
+            height: 1030px;
+            }
+            
+            .fondoazul {
+            width: 330px;
+            margin-top: 130px;
+            }
+            
+            .fondorosa {
+            width: 330px;
+            margin-top: 550px;
+                }
+            
+            .comillas2 {
+            margin-top: 190px;
+            margin-left: 15%;
+                }
+            
+            .comillas3 {
+            margin-top: 190px;
+            margin-left: 21%;
+            }
+            
+            .comillas4 {
+            margin-top: 620px;
+            margin-left: 15%;
+            }
+                
+            .comillas5 {
+            margin-top: 620px;
+            margin-left: 21%;
+                }
+            
+            
+            /*--last--*/
+            
+            .last {
+            margin-top: -50px;
+            }
+                
+            .lastbutton {
+            left: 28%;
+            top: 220px;
+            display: block;
+            border-radius: 15px;
+            width: 160px;
+            height: 50px;
+            }
+            
+            /* ---- footer ---- */
+            
+            footer {
+            margin-top: 220px;
+            }
+            
+            .ulfooter {
+            margin-left: -8%;
+            }
+    
+        }
+
+        @media (max-width: 375px){
+            
+            .navegacion {
+                width: 360px;
+                margin-left: 0px;
+    
+                    }
+                    
+                    li {
+                        padding-left: 10px;
+                    }         
+                /* hero*/
+                
+                .fotomovil {
+                top: -740px;    
+                left: 0px;
+                }
+                
+                .hero img{
+                    width: 340px;
+                    height: auto;
+                }
+                
+                /* cards */
+                
+                .card p {
+                padding-right: 20px;
+                }
+                
+                /* premium */
+            
+            
+                .premium {
+                    height: 1050px;
+                }
+                
+                .circle {
+                    margin-left: 2px;
+                }
+                
+                .premium img {
+                    margin-left: 90px;
+                }
+                
+                /*-texto premium-*/
+            
+                    
+                .textopremium p {
+                    margin-left: 18px;
+                            }
+                /* customers */
+                
+                .customers h3 {
+                margin-left: 30px;
+                }
+                
+                .fondoazul {
+                margin-left: 16px;
+                }
+                
+                .fondorosa {
+                margin-left: 16px;
+                    }
+                
+                
+                /*--last--*/
+        }
